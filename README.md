@@ -2,11 +2,11 @@
 
 <p>Lexicon description</p>
 <ul>
-<li>title: a crowdsourced phrasal lexicon to identify cultural ecosystem services</li>
-  <li>Study area: El Cajas National Park, Ecuador </li>
-  <li>Data sources: online tourism reviews from TripAdvisor and Google Maps</li>
-  <li>Crowdsourced survey: Amazon Mechanical Turk using Qualtrics </li>
- </ul>
+<li>Title: a crowdsourced phrasal lexicon to identify cultural ecosystem services</li>
+ <li>Study area: El Cajas National Park, Ecuador </li>
+ <li>Data sources: online tourism reviews from TripAdvisor and Google Maps</li>
+ <li>Crowdsourced survey: Amazon Mechanical Turk using Qualtrics </li>
+</ul>
 
 
 
