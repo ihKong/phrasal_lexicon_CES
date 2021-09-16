@@ -22,3 +22,6 @@
  <li>CNP_specific_yes: if the phrase is exclusively pertinent to CNP, "CNP" </li>
  <li>Frequency_over10_yes: if the phrase occurred more than 10 times in the collected data, "Y" </li>
 </ul>
+
+
+<p>citation: Kong, I. and F.O. Sarmiento, under review. Online Reviews and Crowdsourced Phrasal Lexicon to Identify Cultural Ecosystem Services: A Case Study of El Cajas National Park, Ecuador </p>
