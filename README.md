@@ -17,8 +17,8 @@
 <li>phrase: multi-gram phrasal expressions </li>
  <li>CES: final result of the CES labeling process. one or two of aesthetic, biological, cultural, educational, identity, recreational, social, spiritual values </li>
  <li>MTurk_result: results from the crowdsourced survey which may or may not be identical to the final result (i.e., CES), depending on whether the final labeling was edited by the author </li>
- <li>Multiple_label_yes: when a phrase was attached with more than one CES value, "Y" </li>
- <li>Final_edit_yes: when the phrase was edited by the author, "Y" 
- <li>CNP_specific_yes: if the phrase is exclusively pertinent to CNP, "Y" </li>
+ <li>Multiple_label_yes: when a phrase was associated with more than one CES value, "Y" </li>
+ <li>Final_edit_yes: when the result from MTurk survey was edited by the author, "replaced, the second frequent CES", "added, the second frequent CES", "added manually", "replaced manually"
+ <li>CNP_specific_yes: if the phrase is exclusively pertinent to CNP, "CNP" </li>
  <li>Frequency_over10_yes: if the phrase occurred more than 10 times in the collected data, "Y" </li>
 </ul>
